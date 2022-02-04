@@ -18,9 +18,7 @@ module.exports = function(grunt) {
         download: {
             somefile: {
                 src: [
-                    'https://raw.githubusercontent.com/FortAwesome/Font-Awesome/' +
-                    FONTAWESOME_VERSION +
-                    '/advanced-options/metadata/icons.yml'
+                    'https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/metadata/icons.yml'
                 ],
                 dest: tempIconsFile
             },
