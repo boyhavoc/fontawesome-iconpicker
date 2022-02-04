@@ -1,6 +1,6 @@
 {
-  "name": "fontawesome-iconpicker-upgrade",
-  "version": "3.3.0",
+  "name": "fa-iconpicker",
+  "version": "0.0.1",
   "description": "Font Awesome Icon Picker plugin for Twitter Bootstrap",
   "repository": {
     "type": "git",
